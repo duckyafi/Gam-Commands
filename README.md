@@ -20,6 +20,12 @@
 	<li>
 	gam update group [groupname]update owner user [username] (this changes group ownership to another user)
 	</li>
+	<li>
+	gam calendar [username] update owner [username] (this moves calendars resources to a new owner)
+	</li>
+	<li>
+	gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)
+	</li>
 	
 
 
