@@ -27,7 +27,7 @@
 	gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)
 	</li>
 	<li>
-	gam update org ["directory path"] add user [username](this moves users to a different ou, make sure to use "/" to specificy which directory)
+	gam update org ["directory path"] add user [username] (this moves users to a different ou, make sure to use "/" to specificy which directory)
 	</li>
 	
 
