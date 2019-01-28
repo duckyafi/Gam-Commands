@@ -17,6 +17,9 @@
 	<li>
 	gam update group [groupname] add member [username](add users to a group)
 	</li>
+	<li>
+	gam update group [groupname]update owner user [username](this changes group ownership to another user)
+	</li>
 	
 
 
