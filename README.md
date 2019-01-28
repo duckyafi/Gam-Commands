@@ -1,6 +1,5 @@
 # Gam-Commands
 Google Gam Commands. 
-
 Gam info domain (Pulls domain information)
 gam create user (Creates user)
 gam delete user (Deletes user)
