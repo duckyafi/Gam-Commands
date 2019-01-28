@@ -15,10 +15,10 @@
 	gam info group [groupname](this displays all the info of that group)
 	</li>
 	<li>
-	gam update group [groupname] add member [username](add users to a group)
+	gam update group [groupname] add member [username] (add users to a group)
 	</li>
 	<li>
-	gam update group [groupname]update owner user [username](this changes group ownership to another user)
+	gam update group [groupname]update owner user [username] (this changes group ownership to another user)
 	</li>
 	
 
