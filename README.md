@@ -7,7 +7,7 @@
 	</li>
 	<li>gam info user [username] (info about user, groups, login info, etc)</li>
 	<li>
-	gam create user [user.name] firstname "user" lastname "name" password "test405" changepassword on (this creates a new user with a password set and a changepassword set once the user logs on)
+	gam create user [user.name] firstname "user" lastname "name" password "test405"  changepassword on (this creates a new user with a password set and a changepassword set once the user logs on)
 	</li>
 	<li>gam delete user [username] (to delete user)
 	</li>
@@ -33,7 +33,4 @@
 	gam update org ["directory path"] add user [username] (this moves users to a different ou, make sure to use "/" to specificy which directory)
 	</li>
 	
-
-
-
 </ul>
