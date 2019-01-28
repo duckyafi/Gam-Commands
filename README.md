@@ -6,5 +6,5 @@ Google Gam Commands.
 # Most Used Commands
 =======
 <ul>
-	<li>gam delete user gam delete user (to delete user)</li>
+	<li>gam delete user (to delete user)</li>
 </ul>
