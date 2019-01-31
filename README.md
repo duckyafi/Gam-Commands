@@ -32,5 +32,8 @@
 	<li>
 	gam update org ["directory path"] add user [username] (this moves users to a different ou, make sure to use "/" to specificy which directory)
 	</li>
+	<li>
+	gam create group [group name] (This commands creates a group for you)
+	</li>
 	
 </ul>
