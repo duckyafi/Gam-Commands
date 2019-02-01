@@ -35,5 +35,11 @@
 	<li>
 	gam create group [group name] (This commands creates a group for you)
 	</li>
+	<li>
+	gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)
+	</li>
+	<li>
+	gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)	
+	</li>
 	
 </ul>
