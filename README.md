@@ -1,8 +1,16 @@
 # Google Gam Commands
 ======= 
-# My Most GAM Used Commands
+# My Most Used GAM Commands
 =======
-<ul>
+<!DOCTYPE html>
+ <html>
+
+<head>
+	<title>My Most Used Gam Commands</title>
+</head>
+
+<body>
+	<ul>
 
 <h1>User Functions</h1>
 	
@@ -45,3 +53,6 @@
 <li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
 	
 </ul>
+	</body>
+
+</html>
