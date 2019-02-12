@@ -1,7 +1,3 @@
-# Google Gam Commands
-======= 
-# My Most Used GAM Commands
-=======
 <!DOCTYPE html>
  <html>
 
