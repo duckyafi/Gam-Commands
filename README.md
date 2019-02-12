@@ -12,8 +12,10 @@
 
 <h1>My Most Used GAM Commands</h1>
 
+
 <h2>User Functions</h2>
 	
+
 <li>gam info domain (account information about your domain)</li>
 
 <li>gam info user [username] (info about user, groups, login info, etc)</li>
@@ -26,8 +28,10 @@
 	
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
 	
+
 <h3>Group Functions</h3>
 	
+
 <li>gam create group [group name] (This commands creates a group for you)</li>
 
 <li>gam info group [groupname](this displays all the info of that group)</li>
@@ -36,11 +40,15 @@
 	
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
+
 <h4>Calendar</h4>	
+
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
 	
+
 <h5>Bulk Operations</h5>
+
 
 <li>gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)</li>
 	
