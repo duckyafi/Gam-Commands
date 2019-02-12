@@ -14,6 +14,7 @@
 	<li>gam user [username] show filelist (to show all files users owns)</li>
 	<li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)
 	</li>
+	<h1>Group Functions</h1>
 	<li>
 	gam info group [groupname](this displays all the info of that group)
 	</li>
