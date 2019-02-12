@@ -1,7 +1,9 @@
 # Google Gam Commands
 ======= 
-# Most Used Commands
+# My Most GAM Used Commands
 =======
+<h1>User Functions</h1>
+
 <ul>
 	<li>gam info domain (account information about your domain)
 	</li>
@@ -14,7 +16,9 @@
 	<li>gam user [username] show filelist (to show all files users owns)</li>
 	<li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)
 	</li>
-	<h1>Group Functions</h1>
+	
+	<h2>Group Functions</h2>
+	
 	<li>
 	gam info group [groupname](this displays all the info of that group)
 	</li>
