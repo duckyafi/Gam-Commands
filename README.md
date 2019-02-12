@@ -6,8 +6,6 @@
 	
 #My Most Used GAM Commands
 
-<title></title>
-
 </head>
 
 <body>
