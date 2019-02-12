@@ -1,5 +1,3 @@
-#My Most Used GAM Commands
-
 <!DOCTYPE html>
  <html>
 
@@ -12,7 +10,9 @@
 	
 <ul>
 
-<h1>User Functions</h1>
+<h1>My Most Used Commands</h1>
+
+<h2>User Functions</h2>
 	
 <li>gam info domain (account information about your domain)</li>
 
@@ -26,7 +26,7 @@
 	
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
 	
-<h2>Group Functions</h2>
+<h3>Group Functions</h3>
 	
 <li>gam create group [group name] (This commands creates a group for you)</li>
 
@@ -36,17 +36,17 @@
 	
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
-<h3>Calendar</h3>	
+<h4>Calendar</h4>	
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
 	
-<h4>Bulk Operations</h4>
+<h5>Bulk Operations</h5>
 
 <li>gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)</li>
 	
 <li>gam update org ["directory path"] add user [username] (this moves users to a different ou, make sure to use "/" to specificy which directory)</li>
 
-<h5>Email Deletion</h5>
+<h6>Email Deletion</h6>
 
 <li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
 	
