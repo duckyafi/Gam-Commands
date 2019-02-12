@@ -10,7 +10,7 @@
 	
 <ul>
 
-<h1>My Most Used Commands</h1>
+<h1>My Most Used GAM Commands</h1>
 
 <h2>User Functions</h2>
 	
