@@ -2,10 +2,11 @@
 ======= 
 # My Most GAM Used Commands
 =======
-<h1>User Functions</h1>
-
 <ul>
-	<li>gam info domain (account information about your domain)
+
+<h1>User Functions</h1>
+	
+<li>gam info domain (account information about your domain)
 	</li>
 	<li>gam info user [username] (info about user, groups, login info, etc)</li>
 	<li>
@@ -17,10 +18,9 @@
 	<li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)
 	</li>
 	
-	<h2>Group Functions</h2>
+<h2>Group Functions</h2>
 	
-	<li>
-	gam info group [groupname](this displays all the info of that group)
+<li>gam info group [groupname](this displays all the info of that group)
 	</li>
 	<li>
 	gam update group [groupname] add member [username] (add users to a group)
