@@ -63,7 +63,7 @@
 
 <h7>Google Drive</h7>
 
-<li>gam print groups todrive (this command will push the output to your personal drive</li>
+<li>gam print groups todrive (this command will push the output to your personal drive)</li>
 	
 </ul>
 	</body>
