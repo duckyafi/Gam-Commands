@@ -53,6 +53,10 @@
 	
 <li>gam update org ["directory path"] add user [username] (this moves users to a different ou, make sure to use "/" to specificy which directory)</li>
 
+<li>gam print users todrive (this command will push your user list to a google sheet)</li>
+
+<li>gam print groups todrive (this command will push your google groups on your domain to a google sheet)</li>
+
 <h6><br>Email Deletion</br></h6>
 
 
