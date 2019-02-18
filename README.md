@@ -12,7 +12,7 @@
 <h1>My Most Used GAM Commands</h1>
 
 
-<h2>User Functions</h2>
+<h2><br>User Functions</br></h2>
 	
 
 <li>gam info domain (account information about your domain)</li>
