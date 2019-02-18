@@ -61,7 +61,7 @@
 <li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
 
 
-<h7>Google Drive</h7>
+<h7><br>Google Drive</br></h7>
 
 <li>gam print groups todrive (this command will push the output to your personal drive)</li>
 	
