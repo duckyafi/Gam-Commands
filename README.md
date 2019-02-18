@@ -40,7 +40,7 @@
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
 
-<h4><br>Calendar</br></h4>	
+<h4><br>Calendar Functions</br></h4>	
 
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
@@ -61,7 +61,7 @@
 <li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
 
 
-<h7><br>Google Drive</br></h7>
+<h7><br>Google Drive Functions</br></h7>
 
 <li>gam print groups todrive (this command will push the output to your personal drive)</li>
 	
