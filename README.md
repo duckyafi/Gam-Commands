@@ -40,7 +40,7 @@
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
 
-<h4>Calendar</h4>	
+<h4><br>Calendar</br></h4>	
 
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
