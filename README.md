@@ -28,7 +28,7 @@
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
 	
 
-<h3>Group Functions</h3>
+<h3><br>Group Functions</br></h3>
 	
 
 <li>gam create group [group name] (This commands creates a group for you)</li>
