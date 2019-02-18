@@ -55,11 +55,15 @@
 
 <h6>Email Deletion</h6>
 
+
 <li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
 	
 <li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
 
+
 <h7>Google Drive</h7>
+
+<li>gam print groups todrive (this command will push the output to your personal drive</li>
 	
 </ul>
 	</body>
