@@ -46,14 +46,14 @@
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
 	
 
-<h5>Bulk Operations</h5>
+<h5><br>Bulk Operations</br></h5>
 
 
 <li>gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)</li>
 	
 <li>gam update org ["directory path"] add user [username] (this moves users to a different ou, make sure to use "/" to specificy which directory)</li>
 
-<h6>Email Deletion</h6>
+<h6><br>Email Deletion</br></h6>
 
 
 <li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
