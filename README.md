@@ -16,6 +16,8 @@
 
 <h1>My Most Used GAM Commands</h1>
 
+<p>* If You Want Me To Add Any Commands Feel Free To Reach Out!</p>
+
 
 <h2><br>User Functions</br></h2>
 	
@@ -75,8 +77,6 @@
 <li>gam print groups todrive (this command will push the output to your personal drive)</li>
 	
 </ul>
-
-<p>If You Want Me To Add Any Commands Feel Free To Reach Out!</p>
 	</body>
 
 </html>
