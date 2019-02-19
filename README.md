@@ -75,6 +75,8 @@
 <li>gam print groups todrive (this command will push the output to your personal drive)</li>
 	
 </ul>
+
+<p>If You Want Me To Add Any Commands Feel Free To Reach Out!</p>
 	</body>
 
 </html>
