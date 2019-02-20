@@ -7,7 +7,7 @@
 
 <body>
 
-<a href="https://blog.hubspot.com/hubfs/image8-2.jpg">
+<a href="https://github.com/duckyafi/Gam-Commands/blob/master/Google%20Logo%20Black%20And%20White.png">
 	
 <ul>
 
