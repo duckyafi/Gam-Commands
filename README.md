@@ -7,11 +7,11 @@
 
 <body>
 
-<a href="https://github.com/duckyafi/Gam-Commands/blob/master/Google%20Logo%20Black%20And%20White.png">
+<a href="">
 	
 <ul>
 
-   <img src="Gam-Commands/Google Logo Black And White.png"> 
+   <img src="/Users/christian.alvarado/Desktop/Gam-Commands/Google Logo Black And White.png"> 
 
 
 <h1>My Most Used GAM Commands</h1>
