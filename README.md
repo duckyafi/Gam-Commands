@@ -11,7 +11,7 @@
 	
 <ul>
 
-   <img src="file:///Users/christian.alvarado/Desktop/Gam-Commands/Google Logo Black And White.png"> 
+   <img src="file:////Users/christian.alvarado/Desktop/Gam-Commands/Google Logo Black And White.png"> 
 
 
 <h1>My Most Used GAM Commands</h1>
