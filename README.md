@@ -14,7 +14,6 @@
 
 <h1>My Most Used GAM Commands</h1>
 
-<p>* Feel Free To Reach Out If You Would Like Me To Add Additional Commands.</p>
 
 ----------------------------------
 
