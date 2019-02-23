@@ -81,11 +81,8 @@
 
 <p>Got Your Back</p>
 
-<li>* Got Your Back is a command line tool that backs up and restores your Gmail account.</li>
+<p>* Got Your Back is a command line tool that backs up and restores your Gmail account.</p>
 
-
-
-<li></li>
 	
 </ul>
 	</body>
