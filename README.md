@@ -79,9 +79,9 @@
 
 <h8><br>Additional Tools</br></h8>
 
-<p>Got Your Back (Got Your Back is a command line tool that backs up and restores your Gmail account).</p>
+<p>Got Your Back (Got Your Back is a command line tool that backs up and restores your Gmail inbox).</p>
 
-<p>To install paste the command below:</p>
+<p>* To install paste the command below:</p>
 
 
 <li>bash <(curl -s -S -L https://git.io/gyb-install)</li>
