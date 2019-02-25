@@ -86,6 +86,11 @@
 
 <li>bash <(curl -s -S -L https://git.io/gyb-install)</li>
 
+<p> *Once Installed paste this command below to test install</p>
+
+<li>gyb --email testemail@company.com --action estimate</li>
+
+<p>* To note, to run commands you must in the directory where you installed GYB.</p>
 	
 </ul>
 	</body>
