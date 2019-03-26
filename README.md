@@ -70,6 +70,8 @@
 	
 <li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
 
+<li>gam all users delete messages query from:[Email address of the user sending spam] doit (Use this command when trying to delete emails from a specific user)</li>
+
 
 <h7><br>Google Drive Functions</br></h7>
 
