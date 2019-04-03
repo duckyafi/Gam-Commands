@@ -77,7 +77,7 @@
 
 <li>gam print groups todrive (this command will push the output to your personal drive)</li>
 
-<h8>Email Actions</h8>
+<h8><br>Email Actions</br></h8>
 
 <li>gam user test@example.com add forwardingaddress persontoadd@example.com (this will command will add a forwarding address to the test@example.com address)</li>
 
