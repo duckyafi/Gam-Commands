@@ -63,6 +63,8 @@
 
 <li>gam print groups todrive (this command will push your google groups on your domain to a google sheet)</li>
 
+<li>gam csv /location/of/csv gam update group example@company.com add members ~username (using the username field in my text editior or csv I can use this command to add a group of people to a particular google group)</li>
+
 <h6><br>Email Deletion</br></h6>
 
 
