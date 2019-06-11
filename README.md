@@ -68,7 +68,7 @@
 
 <li>gam csv /location/of/csv gam update group example@company.com add members ~username (using the username field in my text editior or csv I can use this command to add a group of people to a particular google group)</li>
 
-<li>gam user test@test.com show filelist | gam update user test@test.com (using the pipe in between will run the command in order</li>
+<li>gam user test@test.com show filelist | gam update user test@test.com password newpassword (using the pipe in between will run the command in order</li>
 
 ----------------------------------
 
