@@ -47,6 +47,7 @@
 	
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
+----------------------------------
 
 <h4><br>Calendar Functions</br></h4>	
 
@@ -79,6 +80,7 @@
 
 <li>gam all users delete messages query from:[Email address of the user sending spam] doit (Use this command when trying to delete emails from a specific user)</li>
 
+----------------------------------
 
 <h7><br>Google Drive Functions</br></h7>
 
