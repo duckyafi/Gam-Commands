@@ -17,7 +17,6 @@
 
 ----------------------------------
 
-
 <h2><br>User Functions</br></h2>
 	
 
@@ -35,6 +34,7 @@
 	
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
 	
+----------------------------------
 
 <h3><br>Group Functions</br></h3>
 	
@@ -52,7 +52,8 @@
 
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
-	
+
+----------------------------------	
 
 <h5><br>Bulk Operations</br></h5>
 
@@ -66,6 +67,8 @@
 <li>gam print groups todrive (this command will push your google groups on your domain to a google sheet)</li>
 
 <li>gam csv /location/of/csv gam update group example@company.com add members ~username (using the username field in my text editior or csv I can use this command to add a group of people to a particular google group)</li>
+
+----------------------------------
 
 <h6><br>Email Deletion</br></h6>
 
