@@ -104,7 +104,7 @@
 
 ----------------------------------
 
-<h9>How to upgrade just the GAM shell, past the command below into your terminal.</h9>
+<h9><br>How to upgrade just the GAM shell, paste the command below into your terminal.</h9></br>
 
 <li>bash <(curl -s -S -L https://git.io/install-gam) -l</li>
 
