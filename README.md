@@ -70,7 +70,7 @@
 
 <li>gam user test@test.com show filelist | gam update user test@test.com password newpassword (using the pipe in between will run the command in order</li>
 
-<li>gam batch <batch-filename> (using this command you can run multiple GAM commands at one time, each line should contain one GAM command per line) </li>
+<li>gam batch file-name (using this command you can run multiple GAM commands at one time, each line should contain one GAM command per line) </li>
 
 ----------------------------------
 
