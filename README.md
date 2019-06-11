@@ -101,6 +101,13 @@
 <li>gyb --email testemail@company.com --action estimate</li>
 
 <p>* To note, to run the commands you must in the directory where you installed GYB.</p>
+
+----------------------------------
+
+* How to upgrade just the GAM shell, past the command below into your terminal. 
+
+<li>bash <(curl -s -S -L https://git.io/install-gam) -l</li>
+
 	
 </ul>
 	</body>
