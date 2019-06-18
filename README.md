@@ -89,6 +89,10 @@
 
 <li>gam print groups todrive (this command will push the output to your personal drive)</li>
 
+<li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
+
+----------------------------------
+
 <h8><br>Email Actions</br></h8>
 
 <li>gam user test@example.com add forwardingaddress persontoadd@example.com (this will command will add a forwarding address to the test@example.com address)</li>
