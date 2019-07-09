@@ -13,6 +13,8 @@
 
 <h1>My Most Used GAM Commands</h1>
 
+<li>This a quick refernce guide for anyone who is a GAM user</li>
+
 
 ----------------------------------
 
