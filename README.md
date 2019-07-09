@@ -27,6 +27,8 @@
 	
 <li>gam delete user [username] (to delete user)</li>
 
+<li>gam undelete user [username] (to undelete user)</li>
+
 <li>gam update user [username] password newlysetpassword (this command updates user password)</li>
 	
 <li>gam user [username] show filelist (to show all files users owns)</li>
