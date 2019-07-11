@@ -50,6 +50,8 @@
 	
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
+<li>gam print groups todrive (this command will push the output to your personal drive)</li>
+
 ----------------------------------
 
 <h4><br>Calendar Functions</br></h4>	
@@ -91,7 +93,6 @@
 
 <h7><br>Google Drive Functions</br></h7>
 
-<li>gam print groups todrive (this command will push the output to your personal drive)</li>
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
 
