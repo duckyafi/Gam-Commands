@@ -43,13 +43,9 @@
 
 <li>Examples of using the data transfer command:</li>
 
-<ul type="square">
+<li>gam create datatransfer (old owner) gdrive (new owner) privacy_level shared,private (this command just moves the G Drive data)</li>
 
-<ul>gam create datatransfer (old owner) gdrive (new owner) privacy_level shared,private (this command just moves the G Drive data)</ul>
-
-<ul>gam create datatransfer (old owner) calendar (new owner) release_resources true (this command just moves the calendar data)</ul>
-
-</ul type="square">
+<li>gam create datatransfer (old owner) calendar (new owner) release_resources true (this command just moves the calendar data)</li>
 
 </ul type="circle">
 ----------------------------------
