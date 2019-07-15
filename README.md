@@ -36,6 +36,15 @@
 <li>gam user [username] show filelist (to show all files users owns)</li>
 	
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
+
+<li>gam create datatransfer <old owner> <gdrive or calendar> <new owner> (this command is used to transfer users drive data and calendar resources)</li>
+
+<li>Examples of using the data transfer command:</li>
+
+<ul>gam create datatransfer <old owner> gdrive <new owner> privacy_level shared,private (this command just moves the G Drive data)</ul>
+
+<ul>gam create datatransfer <old owner> calendar <new owner> release_resources true (this command just moves the calendar data)</ul>
+
 	
 ----------------------------------
 
@@ -96,6 +105,7 @@
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
 
+
 ----------------------------------
 
 <h8><br>Email Actions</br></h8>
@@ -104,7 +114,7 @@
 
 ----------------------------------
 
-<h8><br>Additional Tools</br></h8>
+<h9><br>Additional Tools</br></h9>
 
 <p>Got Your Back (Got Your Back is a command line tool that backs up and restores your Gmail inbox).</p>
 
@@ -121,7 +131,7 @@
 
 ----------------------------------
 
-<h9><br>How to upgrade just the GAM shell, paste the command below into your terminal.</h9></br>
+<h10><br>How to upgrade just the GAM shell, paste the command below into your terminal.</h10></br>
 
 <li>bash <(curl -s -S -L https://git.io/install-gam) -l</li>
 
