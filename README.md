@@ -39,13 +39,15 @@
 
 <li>gam create datatransfer (old owner) [gdrive or calendar] (new owner) (this command is used to transfer users drive data and calendar resources)</li>
 
+<ol type="I">
+
 <li>Examples of using the data transfer command:</li>
 
 <ul>gam create datatransfer (old owner) gdrive (new owner) privacy_level shared,private (this command just moves the G Drive data)</ul>
 
 <ul>gam create datatransfer (old owner) calendar (new owner) release_resources true (this command just moves the calendar data)</ul>
 
-	
+</ol>
 ----------------------------------
 
 <h3><br>Group Functions</br></h3>
