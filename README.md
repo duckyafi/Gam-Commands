@@ -41,7 +41,7 @@
 
 <ul type="circle">
 
-<li>Examples of using the data transfer command:</li>
+* Examples of using the data transfer command:
 
 <li>gam create datatransfer (old owner) gdrive (new owner) privacy_level shared,private (this command just moves the G Drive data)</li>
 
