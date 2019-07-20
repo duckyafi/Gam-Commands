@@ -146,11 +146,11 @@
 
 ----------------------------------
 
-<h11><br>Note: When using GAM, by default it doesn't set to your path correctly.You need update your bash_profile (if your using bash, which is default)</h11></br>
+<h11><br>Note: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</h11></br>
 
 <li>To do that type: nano .bash_profile then appendend this "export PATH=/usr/local/bin:$PATH"</li>
 
-<li>*Make sure you are in the correct directory where your GAM folder is located at</li>
+<li>Make sure you are in the correct directory where your GAM folder is located at</li>
 	
 </ul>
 	</body>
