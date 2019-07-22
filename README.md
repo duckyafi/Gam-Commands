@@ -54,6 +54,7 @@
 <li>gam create datatransfer (old owner) calendar (new owner) release_resources true (this command just moves the calendar data)</li>
 
 </ul type="circle">
+
 ----------------------------------
 
 <h3><br>Group Functions</br></h3>
