@@ -41,7 +41,7 @@
 	
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
 
-<li>gam print datatransfer (This example prints all data transfers)</li>
+<li>gam print datatransfers (This example prints all data transfers)</li>
 
 <li>gam create datatransfer (old owner) [gdrive or calendar] (new owner) (this command is used to transfer users drive data and calendar resources)</li>
 
