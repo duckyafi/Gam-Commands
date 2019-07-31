@@ -47,6 +47,10 @@
 
 <li>Examples of using the data transfer command:</li>
 
+<li>gam print printers (this prints a list of all the Google Cloud Printers)</li>
+
+<li>gam print printers todrive (this prints the list of all the Google Cloud Printers to a Google Sheet)</li>
+
 <ul type="circle">
 
 <li>gam create datatransfer (old owner) gdrive (new owner) privacy_level shared,private (this command just moves the G Drive data)</li>
