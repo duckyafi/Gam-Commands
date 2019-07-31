@@ -45,11 +45,11 @@
 
 <li>gam create datatransfer (old owner) [gdrive or calendar] (new owner) (this command is used to transfer users drive data and calendar resources)</li>
 
-<li>Examples of using the data transfer command:</li>
-
 <li>gam print printers (this prints a list of all the Google Cloud Printers)</li>
 
 <li>gam print printers todrive (this prints the list of all the Google Cloud Printers to a Google Sheet)</li>
+
+<li>Examples of using the data transfer command:</li>
 
 <ul type="circle">
 
