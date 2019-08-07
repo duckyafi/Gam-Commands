@@ -24,6 +24,8 @@
 <li>gam info domain (account information about your domain)</li>
 
 <li>gam info user [username] (info about user, groups, login info, etc)</li>
+
+<li>gam create alias coolguy user testuser (this command creates an alias named coolguy and appends to the user testuser)</li>
 	
 <li>gam create user [user.name] firstname "user" lastname "name" password "test405"  changepassword on (this creates a new user with a password set and a changepassword set once the user logs on)</li>
 	
