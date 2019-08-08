@@ -129,7 +129,7 @@
 
 ----------------------------------
 
-<h9><br>Additional Tools</br></h9>
+<h9><br>ADDITIONAL TOOLS</br></h9>
 
 <p>Got Your Back (Got Your Back is a command line tool that backs up and restores your Gmail inbox).</p>
 
