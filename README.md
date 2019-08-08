@@ -18,7 +18,7 @@
 
 ----------------------------------
 
-<h2><br>User Functions</br></h2>
+<h2><br>USER FUNCTIONS</br></h2>
 	
 
 <li>gam info domain (account information about your domain)</li>
