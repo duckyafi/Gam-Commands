@@ -85,7 +85,7 @@
 
 ----------------------------------	
 
-<h5><br>Bulk Operations</br></h5>
+<h5><br>BULK OPERATIONS</br></h5>
 
 
 <li>gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)</li>
@@ -104,7 +104,7 @@
 
 ----------------------------------
 
-<h6><br>Email Deletion</br></h6>
+<h6><br>EMAIL DELETION</br></h6>
 
 
 <li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
@@ -115,7 +115,7 @@
 
 ----------------------------------
 
-<h7><br>Google Drive Functions</br></h7>
+<h7><br>GOOGLE DRIVE FUNCTIONS</br></h7>
 
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
@@ -123,7 +123,7 @@
 
 ----------------------------------
 
-<h8><br>Email Actions</br></h8>
+<h8><br>EMAIL ACTIONS</br></h8>
 
 <li>gam user test@example.com add forwardingaddress persontoadd@example.com (this will command will add a forwarding address to the test@example.com address)</li>
 
