@@ -11,7 +11,7 @@
 <ul>
 
 
-<h1>GAM Commands</h1>
+<h1>GAM COMMANDS</h1>
 
 <li>This is a quick refernce guide for anyone who is a GAM user.</li>
 
