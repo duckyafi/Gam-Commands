@@ -63,7 +63,7 @@
 
 ----------------------------------
 
-<h3><br>Group Functions</br></h3>
+<h3><br>GROUP FUNCTIONS</br></h3>
 	
 
 <li>gam create group [group name] (This commands creates a group for you)</li>
@@ -78,7 +78,7 @@
 
 ----------------------------------
 
-<h4><br>Calendar Functions</br></h4>	
+<h4><br>CALENDAR FUNCTIONS</br></h4>	
 
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
