@@ -18,7 +18,7 @@
 
 ----------------------------------
 
-<h2><br>USER FUNCTIONS</br></h2>
+<h2>USER FUNCTIONS</h2>
 	
 
 <li>gam info domain (account information about your domain)</li>
@@ -63,7 +63,7 @@
 
 ----------------------------------
 
-<h3><br>GROUP FUNCTIONS</br></h3>
+<h3>GROUP FUNCTIONS</h3>
 	
 
 <li>gam create group [group name] (This commands creates a group for you)</li>
