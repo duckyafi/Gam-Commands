@@ -148,7 +148,7 @@
 
 <h10><br>HOW TO UPGRADE YOUR GAM SHELL</h10></br>
 
-<P>* paste the command below into your terminal</P>
+<P>* paste the command below into your terminal window</P>
 
 <li>bash <(curl -s -S -L https://git.io/install-gam) -l</li>
 
