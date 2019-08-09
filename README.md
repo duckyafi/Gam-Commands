@@ -146,7 +146,7 @@
 
 ----------------------------------
 
-<h10><br>HOW TO UPGRADE YOUR GAM SHELL</h10></br>
+<h10>HOW TO UPGRADE YOUR GAM SHELL</h10>
 
 <P>* paste the command below into your terminal window</P>
 
@@ -155,7 +155,7 @@
 
 ----------------------------------
 
-<h11><br>Note: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</h11></br>
+<h11>Note: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</h11>
 
 <li>To do that type: nano .bash_profile then appendend this "export PATH=/usr/local/bin:$PATH"</li>
 
