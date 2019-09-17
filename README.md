@@ -23,6 +23,8 @@
 
 <li> gam info org testorg (this shows info about an organization, ex. what users are in this certain organization)</li>
 
+<p><b>User Functions</b></p>
+
 <li>gam info user [username] (info about user, groups, login info, etc)</li>
 
 <li>gam create alias coolguy user testuser (this command creates an alias named coolguy and appends to the user testuser)</li>
