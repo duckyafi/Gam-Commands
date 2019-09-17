@@ -17,9 +17,11 @@
 
 <h2>USER FUNCTIONS</h2>
 
-<p><b>Domain Level Command</b></p>
+<p><b>Domain Level Commands</b></p>
 
 <li>gam info domain (account information about your domain)</li>
+
+<li> gam info org testorg (this shows info about an organization, ex. what users are in this certain organization)</li>
 
 <li>gam info user [username] (info about user, groups, login info, etc)</li>
 
