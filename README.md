@@ -148,7 +148,7 @@
 <p><b><br>How To Set Your Gam Path</br></b></p>
 
 
-<liNo.te: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</li>
+<p>Note: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</p>
 
 <li>To do that type: nano .bash_profile then appendend this "export PATH=/usr/local/bin:$PATH"</li>
 
