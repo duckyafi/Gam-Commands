@@ -7,7 +7,7 @@
 
 <body>
 
-	
+
 <ul>
 
 
@@ -19,16 +19,16 @@
 ----------------------------------
 
 <h2>USER FUNCTIONS</h2>
-	
+
 
 <li>gam info domain (account information about your domain)</li>
 
 <li>gam info user [username] (info about user, groups, login info, etc)</li>
 
 <li>gam create alias coolguy user testuser (this command creates an alias named coolguy and appends to the user testuser)</li>
-	
+
 <li>gam create user [user.name] firstname "user" lastname "name" password "test405"  changepassword on (this creates a new user with a password set and a changepassword set once the user logs on)</li>
-	
+
 <li>gam delete user [username] (to delete user)</li>
 
 <li>gam undelete user [username] (to undelete user)</li>
@@ -38,9 +38,9 @@
 <li>gam update user [username] suspended off (to unsuspended user)</li>
 
 <li>gam update user [username] password newlysetpassword (this command updates user password)</li>
-	
+
 <li>gam user [username] show filelist (to show all files users owns)</li>
-	
+
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
 
 <li>gam print datatransfers (This example prints all data transfers)</li>
@@ -61,35 +61,37 @@
 
 </ul type="circle">
 
+<p>gam update org /example ou add user (Use this when you want to move a user to a new org)</p>
+
 ----------------------------------
 
 <h3>GROUP FUNCTIONS</h3>
-	
+
 
 <li>gam create group [group name] (This commands creates a group for you)</li>
 
 <li>gam info group [groupname](this displays all the info of that group)</li>
-	
+
 <li>gam update group [groupname] add member [username] (add users to a group)</li>
-	
+
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
 <li>gam print groups todrive (this command will push the output to your personal drive)</li>
 
 ----------------------------------
 
-<h4>CALENDAR FUNCTIONS</h4>	
+<h4>CALENDAR FUNCTIONS</h4>
 
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
 
-----------------------------------	
+----------------------------------
 
 <h5>BULK OPERATIONS</h5>
 
 
 <li>gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)</li>
-	
+
 <li>gam update org ["directory path"] add user [username] (this moves users to a different ou, make sure to use "/" to specificy which directory)</li>
 
 <li>gam print users todrive (this command will push your user list to a google sheet)</li>
@@ -108,7 +110,7 @@
 
 
 <li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
-	
+
 <li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
 
 <li>gam all users delete messages query from:[Email address of the user sending spam] doit (Use this command when trying to delete emails from a specific user)</li>
@@ -160,7 +162,7 @@
 <li>To do that type: nano .bash_profile then appendend this "export PATH=/usr/local/bin:$PATH"</li>
 
 <li>Make sure you are in the correct directory where your GAM folder is located at</li>
-	
+
 </ul>
 	</body>
 
