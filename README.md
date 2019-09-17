@@ -41,7 +41,7 @@
 
 <li>gam user [username] show filelist (to show all files users owns)</li>
 
-<li>gam update org /example ou add user (Use this when you want to move a user to a new org)</li>
+<li>gam update org /example ou add user example@google.com (Use this when you want to move a user to a new org)</li>
 
 <p><b><br>Data Transfer</br></b></p>
 
@@ -67,10 +67,17 @@
 
 <li>gam print printers todrive (this prints the list of all the Google Cloud Printers to a Google Sheet)</li>
 
+<p><b><br>Calendar Functions</br></b></p>
+
+<li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
+
+<p><b><br>GOOGLE DRIVE FUNCTIONS</br></b></p>
+
+<li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
 
 ----------------------------------
 
-<h3>GROUP FUNCTIONS</h3>
+<h2>GROUP FUNCTIONS</h2>
 
 
 <li>gam create group [group name] (This commands creates a group for you)</li>
@@ -85,14 +92,7 @@
 
 ----------------------------------
 
-<h4>CALENDAR FUNCTIONS</h4>
-
-
-<li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
-
-----------------------------------
-
-<h5>BULK OPERATIONS</h5>
+<h3>BULK OPERATIONS</h3>
 
 
 <li>gam csv [path of csv file] gam delete user ~username (this deletes bulk amount of users using the names on the csv or textfile)</li>
@@ -111,7 +111,7 @@
 
 ----------------------------------
 
-<h6>EMAIL DELETION</h6>
+<h4>EMAIL DELETION</h4>
 
 
 <li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
@@ -122,21 +122,13 @@
 
 ----------------------------------
 
-<h7>GOOGLE DRIVE FUNCTIONS</h7>
-
-
-<li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
-
-
-----------------------------------
-
-<h8>EMAIL ACTIONS</h8>
+<h5>EMAIL ACTIONS</h5>
 
 <li>gam user test@example.com add forwardingaddress persontoadd@example.com (this will command will add a forwarding address to the test@example.com address)</li>
 
 ----------------------------------
 
-<h9>ADDITIONAL TOOLS</h9>
+<h6>ADDITIONAL TOOLS</h6>
 
 <p>Got Your Back (Got Your Back is a command line tool that backs up and restores your Gmail inbox).</p>
 
@@ -153,7 +145,7 @@
 
 ----------------------------------
 
-<h10>HOW TO UPGRADE YOUR GAM SHELL</h10>
+<h7>HOW TO UPGRADE YOUR GAM SHELL</h7>
 
 <P>* paste the command below into your terminal window</P>
 
@@ -162,7 +154,7 @@
 
 ----------------------------------
 
-<h11>Note: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</h11>
+<h8>Note: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</h8>
 
 <li>To do that type: nano .bash_profile then appendend this "export PATH=/usr/local/bin:$PATH"</li>
 
