@@ -23,7 +23,7 @@
 
 <li> gam info org testorg (this shows info about an organization, ex. what users are in this certain organization)</li>
 
-<p><b><break>User Functions</break></b></p>
+<p><b><br>User Functions</br></b></p>
 
 <li>gam info user [username] (info about user, groups, login info, etc)</li>
 
