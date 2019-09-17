@@ -132,16 +132,16 @@
 
 <li>bash <(curl -s -S -L https://git.io/gyb-install)</li>
 
-<p> * Once Installed paste this command below to test install</p>
+<p> Note: Once Installed paste this command below to test install</p>
 
 <li>gyb --email testemail@company.com --action estimate</li>
 
-<p>* To note, to run the commands you must in the directory where you installed GYB.</p>
+<p>Note: To run the commands you must in the directory where you installed GYB.</p>
 
 
 <p><b><br>How To Upgrade Your Gam Shell</br></b></p>
 
-<P>* paste the command below into your terminal window</P>
+<P>Note: Paste the command below into your terminal window</P>
 
 <li>bash <(curl -s -S -L https://git.io/install-gam) -l</li>
 
