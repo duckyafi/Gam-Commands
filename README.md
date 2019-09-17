@@ -20,7 +20,7 @@
 
 <h2>USER FUNCTIONS</h2>
 
-<p>Domain Level Commands</p>
+<p><b>Domain Level Command</b></p>
 
 <li>gam info domain (account information about your domain)</li>
 
