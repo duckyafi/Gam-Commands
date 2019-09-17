@@ -41,6 +41,8 @@
 
 <li>gam user [username] show filelist (to show all files users owns)</li>
 
+<li>gam update org /example ou add user (Use this when you want to move a user to a new org)</li>
+
 <p><b><br>Data Transfer</br></b></p>
 
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
@@ -65,7 +67,6 @@
 
 <li>gam print printers todrive (this prints the list of all the Google Cloud Printers to a Google Sheet)</li>
 
-<p>gam update org /example ou add user (Use this when you want to move a user to a new org)</p>
 
 ----------------------------------
 
