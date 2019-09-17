@@ -15,8 +15,6 @@
 
 ----------------------------------
 
-<h2>USER FUNCTIONS</h2>
-
 <p><b>Domain Level Commands</b></p>
 
 <li>gam info domain (account information about your domain)</li>
@@ -43,15 +41,13 @@
 
 <li>gam user [username] show filelist (to show all files users owns)</li>
 
+<p><b><br>Data Transfer</br></b></p>
+
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
 
 <li>gam print datatransfers (This example prints all data transfers)</li>
 
 <li>gam create datatransfer (old owner) [gdrive or calendar] (new owner) (this command is used to transfer users drive data and calendar resources)</li>
-
-<li>gam print printers (this prints a list of all the Google Cloud Printers)</li>
-
-<li>gam print printers todrive (this prints the list of all the Google Cloud Printers to a Google Sheet)</li>
 
 <li>Examples of using the data transfer command:</li>
 
@@ -62,6 +58,12 @@
 <li>gam create datatransfer (old owner) calendar (new owner) release_resources true (this command just moves the calendar data)</li>
 
 </ul type="circle">
+
+<p><b><br>Google Print</br></b></p>
+
+<li>gam print printers (this prints a list of all the Google Cloud Printers)</li>
+
+<li>gam print printers todrive (this prints the list of all the Google Cloud Printers to a Google Sheet)</li>
 
 <p>gam update org /example ou add user (Use this when you want to move a user to a new org)</p>
 
