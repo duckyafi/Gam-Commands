@@ -71,9 +71,21 @@
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
 
-<p><b><br>GOOGLE DRIVE FUNCTIONS</br></b></p>
+<p><b><br>Google Drive Functions</br></b></p>
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
+
+<p><b><br>Email Functions</br></b></p>
+
+<li>gam user test@example.com add forwardingaddress persontoadd@example.com (this will command will add a forwarding address to the test@example.com address)</li>
+
+<p><b><br>Email Deletion</br></b></p>
+
+<li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
+
+<li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
+
+<li>gam all users delete messages query from:[Email address of the user sending spam] doit (Use this command when trying to delete emails from a specific user)</li>
 
 ----------------------------------
 
@@ -111,24 +123,7 @@
 
 ----------------------------------
 
-<h4>EMAIL DELETION</h4>
-
-
-<li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
-
-<li>gam all users delete messages query rfc822msgid:[message ID] doit (this command will delete a sent email to the whole org)</li>
-
-<li>gam all users delete messages query from:[Email address of the user sending spam] doit (Use this command when trying to delete emails from a specific user)</li>
-
-----------------------------------
-
-<h5>EMAIL ACTIONS</h5>
-
-<li>gam user test@example.com add forwardingaddress persontoadd@example.com (this will command will add a forwarding address to the test@example.com address)</li>
-
-----------------------------------
-
-<h6>ADDITIONAL TOOLS</h6>
+<h4>ADDITIONAL TOOLS</h4>
 
 <p>Got Your Back (Got Your Back is a command line tool that backs up and restores your Gmail inbox).</p>
 
@@ -143,18 +138,17 @@
 
 <p>* To note, to run the commands you must in the directory where you installed GYB.</p>
 
-----------------------------------
 
-<h7>HOW TO UPGRADE YOUR GAM SHELL</h7>
+<p><b><br>How To Upgrade Your Gam Shell</br></b></p>
 
 <P>* paste the command below into your terminal window</P>
 
 <li>bash <(curl -s -S -L https://git.io/install-gam) -l</li>
 
+<p><b><br>How To Set Your Gam Path</br></b></p>
 
-----------------------------------
 
-<h8>Note: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</h8>
+<liNo.te: When using GAM by default it doesn't set to your path correctly. You need update your bash_profile (if your using bash, which is default)</li>
 
 <li>To do that type: nano .bash_profile then appendend this "export PATH=/usr/local/bin:$PATH"</li>
 
