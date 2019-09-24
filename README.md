@@ -87,6 +87,8 @@
 
 <li>gam all users delete messages query from:[Email address of the user sending spam] doit (Use this command when trying to delete emails from a specific user)</li>
 
+<li>gam user test.user@example.com delete message query from:spam.email.address@example.com doit max_to_delete 3 (input any value that you might need)</li>
+
 ----------------------------------
 
 <h2>GROUP FUNCTIONS</h2>
