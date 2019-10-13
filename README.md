@@ -43,6 +43,8 @@
 
 <li>gam update org /example ou add user example@google.com (Use this when you want to move a user to a new org)</li>
 
+<li>gam whatis test.user@example.com (Use this command to determine if address is a Email address, user, alias or group)</li>
+
 <p><b><br>Data Transfer</br></b></p>
 
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
