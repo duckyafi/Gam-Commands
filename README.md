@@ -140,6 +140,8 @@
 
 <li>gyb --email testemail@company.com --action estimate</li>
 
+<li>gyb --email yourusersemail@yourcompany.com --service-account (use this once you enabled the service account opition after creating the symlink)</li>
+
 <p>Note: To run the commands you must in the directory where you installed GYB.</p>
 
 <li>bash <(curl -s -S -L https://git.io/gyb-install) -l (use this command to update GYB)</li>
