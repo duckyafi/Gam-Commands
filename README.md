@@ -142,6 +142,8 @@
 
 <p>Note: To run the commands you must in the directory where you installed GYB.</p>
 
+<li>bash <(curl -s -S -L https://git.io/gyb-install) -l (use this command to update GYB)</li>
+
 
 <p><b><br>How To Upgrade Your Gam Shell</br></b></p>
 
