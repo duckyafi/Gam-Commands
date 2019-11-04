@@ -41,6 +41,8 @@
 
 <li>gam user [username] show filelist (to show all files users owns)</li>
 
+<li>gam user email@testdomain.com update backupcodes (use this command to create backup codes for users)</li>
+
 <li>gam update org /example ou add user example@google.com (Use this when you want to move a user to a new org)</li>
 
 <li>gam whatis test.user@example.com (Use this command to determine if address is a Email address, user, alias or group)</li>
