@@ -47,6 +47,8 @@
 
 <li>gam whatis test.user@example.com (Use this command to determine if address is a Email address, user, alias or group)</li>
 
+<li>gam user test.user forward on example-forwarding-email@example.com keep (Use this command when turning on forwarding for a user, this command only works if the user already has a forwarding address added on their account)</li>
+
 <p><b><br>Data Transfer</br></b></p>
 
 <li>gam user [username] transfer drive [recieving username] (this moves the users files from drive to a new owner)</li>
