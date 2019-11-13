@@ -106,7 +106,9 @@
 
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
 
-<li>gam print groups todrive (this command will push the output to your personal drive)</li>
+<li>gam print groups todrive (this command will print all the groups in your domain to your personal drive)</li>
+
+<li>gam print group-members group_ns example_group todrive (This prints out group members for a specific group)</li>
 
 ----------------------------------
 
