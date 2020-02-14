@@ -47,9 +47,6 @@
 
 <li>gam whatis test.user@example.com (Use this command to determine if address is a Email address, user, alias or group)</li>
 
-<li> gam user test.user add forwardingaddress test.forward (this adds a forwarding address to test.user)</li>
-
-<li>gam user test.user forward on example-forwarding-email@example.com keep (Use this command when turning on forwarding for a user, this command only works if the user already has a forwarding address added on their account)</li>
 
 <p><b><br>Data Transfer</br></b></p>
 
@@ -83,9 +80,11 @@
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
 
-<p><b><br>Email Functions</br></b></p>
+<p><b><br>Email Forwarding</br></b></p>
 
-<li>gam user test@example.com add forwardingaddress persontoadd@example.com (this will command will add a forwarding address to the test@example.com address)</li>
+<li> gam user test.user add forwardingaddress test.forward (this adds a forwarding address to test.user)</li>
+
+<li>gam user test.user forward on test.forward@example.com keep (Use this command when turning on forwarding for a user, this command only works if the user already has a forwarding address added on their account)</li>
 
 <p><b><br>Email Deletion</br></b></p>
 
