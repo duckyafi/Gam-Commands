@@ -88,6 +88,8 @@
 
 <li>gam user test.user forward on test.forward@example.com keep (Use this command when turning on forwarding for a user, this command only works if the user already has a forwarding address added on their account)</li>
 
+<li>gam user test.user show forwardingaddresses (this shows what forwarding address this user has attached to their account)</li>
+
 <p><b><br>Email Deletion</br></b></p>
 
 <li>gam user [username] delete messages query rfc822msgid:[message ID]doit (this command deletes a single email sent to your org)</li>
