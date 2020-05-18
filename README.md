@@ -49,6 +49,8 @@
 
 <li>gam delete alias test.user (This deletes a users alias attached to their account)</li>
 
+<li>gam update user example@test.com relation manager manager@test.com (Use this command to add relation to user profile)</li>
+
 
 <p><b><br>Data Transfer</br></b></p>
 
