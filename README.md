@@ -84,6 +84,8 @@
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
 
+<li>gam all users show filelist query "fullText contains 'Project Doc'" todrive (Use this command to search the entire domain for a specific document)</li>
+
 <p><b><br>Email Forwarding</br></b></p>
 
 <li> gam user test.user add forwardingaddress test.forward (this adds a forwarding address to test.user)</li>
