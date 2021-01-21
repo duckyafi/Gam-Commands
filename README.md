@@ -80,6 +80,8 @@
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
 
+<li>gam calendar [calendaremail] showacl (This shows who can access the calendar and who has permission)</li>
+
 <p><b><br>Google Drive Functions</br></b></p>
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
