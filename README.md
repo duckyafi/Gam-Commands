@@ -82,6 +82,8 @@
 
 <li>gam calendar [calendaremail] showacl (This shows who can access the calendar and who has permission)</li>
 
+<li>gam calendar [calendaremail] add [permission (owner|editor)] [useremail] (This changes permissions on a users calendars)</li>
+
 <p><b><br>Google Drive Functions</br></b></p>
 
 <li>gam all users show fileinfo (insert file ID) owners (this command will search the owner of any file in your domain)</li>
