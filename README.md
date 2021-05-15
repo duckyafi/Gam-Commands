@@ -51,6 +51,8 @@
 
 <li>gam update user example@test.com relation manager manager@test.com (Use this command to add relation to user profile)</li>
 
+<li>gam update user test.user organization title "IT Support" primary (Use this command if you want to update a users job title)</li>
+
 
 <p><b><br>Data Transfer</br></b></p>
 
