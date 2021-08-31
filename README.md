@@ -53,6 +53,10 @@
 
 <li>gam update user test.user organization title "IT Support" primary (Use this command if you want to update a users job title)</li>
 
+<li>gam update user test.user otheremail work test.usersotheremail.com (Use this to add other email to a users G-Suite profile)</li>
+
+<li>gam update user test.user otheremail home test.usersotheremail.com (Use this to add other email to a users G-Suite profile)</li>
+
 
 <p><b><br>Data Transfer</br></b></p>
 
