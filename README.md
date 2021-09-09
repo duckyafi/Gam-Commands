@@ -57,6 +57,12 @@
 
 <li>gam update user test.user otheremail home test.usersotheremail.com (Use this to add other email to a users G-Suite profile)</li>
 
+<li>gam user test.user@test.com show vacation (This command will show users active vacation email settings)</li>
+
+<li>gam user test.user@test.com vacation off (This command turns off users vacation status)</li>
+
+<li>gam user test.user@test.com vacation on subject "Out Of Office" message "Thank you for your email. I am currently out of the office and look forward to responding when I’m back online." startdate 2021-01-01 enddate 2021-01-10 (this command will setup a users vacation response)</li>
+
 
 <p><b><br>Data Transfer</br></b></p>
 
