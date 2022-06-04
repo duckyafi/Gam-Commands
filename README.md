@@ -33,6 +33,8 @@
 
 <li>gam undelete user [username] (to undelete user)</li>
 
+<li>gam user [username] signout (this signs out the user mentioned in the username section)</li>
+
 <li>gam update user [username] suspended on (to suspended user)</li>
 
 <li>gam update user [username] suspended off (to unsuspended user)</li>
