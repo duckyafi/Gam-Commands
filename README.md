@@ -55,6 +55,10 @@
 
 <li>gam update user test.user organization title "IT Support" primary (Use this command if you want to update a users job title)</li>
 
+<li>gam update user jschmoe organization title Teacher department Math primary (This updates the job title and the department in one command)</li>
+
+<li>gam user test.user show signature (this displays any current signature)</li>
+
 <li>gam update user test.user otheremail work test.usersotheremail.com (Use this to add other email to a users G-Suite profile)</li>
 
 <li>gam update user test.user otheremail home test.usersotheremail.com (Use this to add other email to a users G-Suite profile)</li>
@@ -136,6 +140,8 @@
 <li>gam update group [groupname] add member [username] (add users to a group)</li>
 
 <li>gam update group [groupname]update owner user [username] (this changes group ownership to another user)</li>
+
+<li>gam user <email address> delete groups (this removes user from all google groups)</li>
 
 <li>gam print groups todrive (this command will print all the groups in your domain to your personal drive)</li>
 
