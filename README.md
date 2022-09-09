@@ -147,6 +147,8 @@
 
 <li>gam print group-members group_ns example_group todrive (This prints out group members for a specific group)</li>
 
+<li>gam print groups name members owners managers delimiter "|" todrive (This prints out all the groups in your domain and prints out each manager, members, and owners to drive)</li>
+
 ----------------------------------
 
 <h3>BULK OPERATIONS</h3>
