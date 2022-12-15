@@ -169,6 +169,18 @@
 <li>gam batch file-name (using this command you can run multiple GAM commands at one time, each line should contain one GAM command per line) </li>
 
 ----------------------------------
+<h4>GAMADV-XTD3 Commands</h4>
+
+<p><b><br>Google Groups</br></b></p>
+
+<li>gam print groups member <user email address> (This will only show direct memebership. It will not show where a User is a memeber of a sub-group)</li> 
+
+<p><b><br>Google Drive</br></b></p>
+
+<li>gam user (admin email) show filelist fullpath select "google drive ID" tordive (This will show the full file path within a google drive)</li>
+
+
+----------------------------------
 
 <h4>ADDITIONAL TOOLS</h4>
 
