@@ -183,6 +183,8 @@
 
 <li>gam user (admin email) update drivefile "file ID" parentid "folder ID on shared drive" (This will move a file from shared drive to a folder located in the the shared drive. Note, you must be in the shard drive to make these changes)</li>
 
+<li>gam user (admin email) print filelist select id "folder ID" todrive (This will print out all the files in the shared drive and print them out to your personal drive)</li>
+
 
 ----------------------------------
 
