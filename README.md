@@ -69,6 +69,8 @@
 
 <li>gam user test.user@test.com vacation on subject "Out Of Office" message "Thank you for your email. I am currently out of the office and look forward to responding when I’m back online." startdate 2021-01-01 enddate 2021-01-10 (this command will setup a users vacation response)</li>
 
+<li>gam user test.user delete photo (This command will delete a users photos from their profile)</li>
+
 
 <p><b><br>Data Transfer</br></b></p>
 
