@@ -101,6 +101,8 @@
 
 <li>gam calendar [username] update owner [username] (this moves calendars resources to a new owner)</li>
 
+<li>gam all users print calendars (this command This example lists the calendars for all users)</li>
+
 <li>gam calendar [calendaremail] showacl (This shows who can access the calendar and who has permission)</li>
 
 <li>gam calendar [calendaremail] add [permission (owner|editor)] [useremail] (This changes permissions on a users calendars)</li>
