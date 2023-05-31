@@ -133,6 +133,8 @@
 
 <li>gam user test.user@example.com delete message query from:spam.email.address@example.com doit max_to_delete 3 (input any value that you might need)</li>
 
+<li>gam user test.user@example.com delete messages query before:2020-01-01 max_to_delete 1 doit (this will bulk delete messages based on a date)</li>
+
 ----------------------------------
 
 <h2>GROUP FUNCTIONS</h2>
